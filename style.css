@@ -1,0 +1,28 @@
+.container{
+    font-weight: bolder;
+    border-radius: 5%;
+    border: 10px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40%;
+    width: 25%;
+    margin-top: 10%;
+    border: solid 2px;
+    background-color: aqua;
+    font-family: cursive;
+    font-size: 84%;
+    gap: 10%;
+}
+
+input{
+    border-radius: 2px;
+    border: 5px;
+    width: 74%;
+    /* margin-left: 30%; */
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
